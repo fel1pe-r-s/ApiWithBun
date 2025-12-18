@@ -36,5 +36,16 @@
     "eslint-plugin-drizzle": "^0.2.3",
     "pg": "^8.11.3",
     "typescript": "^5.3.3"
-  }
+  },
+  "description": "To install dependencies:",
+  "keywords": [
+    "bun",
+    "dayjs",
+    "docker",
+    "markdown",
+    "node",
+    "postgresql",
+    "typescript",
+    "zod"
+  ]
 }
