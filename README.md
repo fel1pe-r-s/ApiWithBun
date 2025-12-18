@@ -1,4 +1,4 @@
-**Tags**: #Bun #Docker #Markdown #Node #Postgresql #TypeScript #Zod #dayjs
+**Tags**: #Bun #Database #Docker #Markdown #Node #Postgresql #TypeScript #Zod #dayjs
 
 #ApiWithBun # pizza-shop-api
 
